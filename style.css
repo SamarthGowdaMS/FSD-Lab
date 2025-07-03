@@ -1,0 +1,20 @@
+#fname{
+    background-color: cyan;
+    }
+#lname{
+    background-color: brown;
+    }
+#email{
+    background-color: rgb(38, 0, 255);
+    }
+#phno{
+    background-color: rgb(255, 0, 140);
+    }
+#submit{
+    background-color: rgb(21, 255, 0);
+    }
+.ClassForm{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    background-color: purple;
+}
